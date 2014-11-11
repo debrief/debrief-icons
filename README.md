@@ -27,3 +27,8 @@ Set of graphic icons for use across Debrief suite of applications
 5. Designer commits new updates
 6. Designer then creates Pull Request (from git client or from relevant branch in web browser)
 7. Project lead reviews Pull Request, potenially asking designer to update designs, finally merges updated icons.
+
+### Post-Issue
+1. Switch back to master branch in SourceTree
+2. Delete development branch
+3. **Pull** updates from the parent repository
