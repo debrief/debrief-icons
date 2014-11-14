@@ -26,8 +26,8 @@ Set of graphic icons for use across Debrief suite of applications
 5. Designer adds changed/new .ai & png files to local copy [**SourceTree**]
 5. Designer commits new updates [**SourceTree**]
 6. Designer then Push updated branch to GitHub [**SourceTree**]
-7. Designer then creates Pull Request [**GitHub**]
-8. Project lead reviews Pull Request, potenially asking designer to update designs, finally merges updated icons. [**GitHub**]
+7. Designer then creates Pull Request [**GitHub**] [see here](https://help.github.com/articles/creating-a-pull-request/)
+8. **Project lead(( reviews Pull Request, potenially asking designer to update designs, finally merges updated icons. [**GitHub**] [see here](https://help.github.com/articles/merging-a-pull-request/)
 
 ### Post-Issue
 1. Switch back to master branch [**SourceTree**]
