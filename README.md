@@ -31,5 +31,5 @@ Set of graphic icons for use across Debrief suite of applications
 
 ### Post-Issue
 1. Switch back to master branch [**SourceTree**]
-2. Delete development branch [**SourceTree**]
+2. If previous change has been merged, delete local branch that was used for previous issue.  [**SourceTree**]
 3. **Pull** updates from the parent repository [**SourceTree**]
