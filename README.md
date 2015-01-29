@@ -7,6 +7,9 @@ Set of graphic icons for use across Debrief suite of applications
 * Blue : 0 0 51
 * White : 255 255 255
 
+## Font
+The Debrief logo uses the Roboto font, downloadable from [here](http://developer.android.com/design/style/typography.html)
+
 ## Standard sizes
 * 16 px : all icons
 * 24 px : all *create* icons: arc, circle, coast, ellipse, etopo, furthest_circles, grid, grid4w, label, line, local_grid, polygon, range_rings, rectangle, scale, track_segment, vector, wheel
