@@ -1,0 +1,49 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: inside copy.pdf
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: millimeters
+Artboard Dimensions: 240.0001 mm x 119.9999 mm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+PANTONE 427 U (Lab)
+bleed area (CMYK)
+infos (CMYK)
+safety distance (CMYK)
+sides (CMYK)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Roboto Condensed (OTF)
+Roboto Bold Condensed (OTF)
+Roboto Black (OTF)
+Roboto Italic (OTF)
+Roboto Regular (OTF)
+Roboto Bold Italic (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
