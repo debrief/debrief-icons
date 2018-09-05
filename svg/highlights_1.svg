@@ -1,6 +1,7 @@
-<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <polygon id="Triangle-2" stroke="#000000" stroke-width="3" fill="#000000" stroke-linecap="round" stroke-linejoin="round" points="50.0576923 75 73.1153846 98 27 98"></polygon>
-  <polygon id="Triangle-2" stroke="#000000" stroke-width="3" fill="#000000" stroke-linecap="round" stroke-linejoin="round" transform="translate(50.057692, 13.500000) rotate(180.000000) translate(-50.057692, -13.500000) " points="50.0576923 2 73.1153846 25 27 25"></polygon>
-  <polygon id="Triangle-2" stroke="#000000" stroke-width="3" fill="#000000" stroke-linecap="round" stroke-linejoin="round" transform="translate(86.500000, 49.057692) rotate(270.000000) translate(-86.500000, -49.057692) " points="86.5 37.5576923 109.557692 60.5576923 63.4423077 60.5576923"></polygon>
-  <polygon id="Triangle-2" stroke="#000000" stroke-width="3" fill="#000000" stroke-linecap="round" stroke-linejoin="round" transform="translate(13.615385, 49.057692) rotate(90.000000) translate(-13.615385, -49.057692) " points="13.6153846 37.5576923 36.6730769 60.5576923 -9.44230769 60.5576923"></polygon>
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <polyline style="stroke: rgb(0, 0, 0); stroke-width: 0;" points="0.049 25.141 27.227 49.633 0.015 74.858 0.019 25.17"/>
+  <polyline style="stroke: rgb(0, 0, 0); stroke-width: 0;" points="24.876 -0.015 75.133 -0.023 50.285 27.269 24.866 -0.004"/>
+  <polyline style="stroke: rgb(0, 0, 0); stroke-width: 0;" points="100.018 24.084 100.019 75.916 72.928 49.879 99.815 24.261"/>
+  <polyline style="stroke: rgb(0, 0, 0); stroke-width: 0;" points="75.8 99.941 49.841 72.644 24.2 100.003 75.67 100"/>
 </svg>

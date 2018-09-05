@@ -1,6 +1,7 @@
-<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <rect id="Rectangle-2" x="4" y="93" width="92" height="7" rx="1"></rect>
-  <rect id="Rectangle-3" transform="translate(25.783515, 55.426308) rotate(-30.000000) translate(-25.783515, -55.426308) " x="22.2835152" y="11.9214549" width="7" height="87.0097053" rx="2"></rect>
-  <rect id="Rectangle-3" transform="translate(74.806089, 56.465406) rotate(30.000000) translate(-74.806089, -56.465406) " x="71.3060889" y="12.9154063" width="7" height="87.1" rx="2"></rect>
-  <rect id="Rectangle-3" x="47" y="8" width="7" height="86" rx="2"></rect>
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <line style="stroke: rgb(0, 0, 0); stroke-width: 7;" x1="96.923" y1="16.556" x2="52.856" y2="92.972"/>
+  <line style="stroke: rgb(0, 0, 0); stroke-width: 7;" x1="3.624" y1="96.5" x2="96.376" y2="96.5"/>
+  <line style="stroke: rgb(0, 0, 0); stroke-width: 7;" x1="49.885" y1="6.272" x2="50.115" y2="95.157"/>
+  <line style="stroke: rgb(0, 0, 0); stroke-width: 7;" x1="3.269" y1="16.457" x2="47.752" y2="93.539"/>
 </svg>
