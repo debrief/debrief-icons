@@ -1,18 +1,7 @@
-<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <rect id="Rectangle-25" transform="translate(73.790361, 84.403401) rotate(51.000000) translate(-73.790361, -84.403401) " x="63.7903607" y="79.9034014" width="20" height="9"></rect>
-  <rect id="Rectangle-24" transform="translate(87.724912, 61.625412) rotate(11.000000) translate(-87.724912, -61.625412) " x="77.7249123" y="57.1254123" width="20" height="9"></rect>
-  <rect id="Rectangle-23" transform="translate(78.499361, 79.806783) rotate(41.000000) translate(-78.499361, -79.806783) " x="68.4993614" y="75.3067834" width="20" height="9"></rect>
-  <rect id="Rectangle-21" transform="translate(82.889344, 74.007634) rotate(31.000000) translate(-82.889344, -74.007634) " x="72.8893443" y="69.5076336" width="20" height="9"></rect>
-  <rect id="Rectangle-22" transform="translate(85.948460, 67.784791) rotate(21.000000) translate(-85.948460, -67.784791) " x="75.94846" y="63.2847914" width="20" height="9"></rect>
-  <rect id="Rectangle-16" transform="translate(15.153022, 72.549434) rotate(-27.000000) translate(-15.153022, -72.549434) " x="5.15302249" y="68.0494344" width="20" height="9"></rect>
-  <rect id="Rectangle-17" transform="translate(12.236017, 65.918393) rotate(-20.000000) translate(-12.236017, -65.918393) " x="2.23601685" y="61.4183933" width="20" height="9"></rect>
-  <rect id="Rectangle-18" transform="translate(19.172614, 79.011949) rotate(-35.000000) translate(-19.172614, -79.011949) " x="9.17261441" y="74.5119486" width="20" height="9"></rect>
-  <rect id="Rectangle-19" transform="translate(10.678960, 59.847937) rotate(-8.000000) translate(-10.678960, -59.847937) " x="0.678959642" y="55.3479373" width="20" height="9"></rect>
-  <rect id="Rectangle-20" transform="translate(23.164140, 83.864140) rotate(-45.000000) translate(-23.164140, -83.864140) " x="13.2141396" y="79.8641396" width="19.9" height="8"></rect>
-  <rect id="Rectangle-14" transform="translate(34.128321, 17.963339) rotate(-24.000000) translate(-34.128321, -17.963339) " x="29.628321" y="7.96333861" width="9" height="20"></rect>
-  <rect id="Rectangle-14" x="43" y="5" width="9" height="20"></rect>
-  <rect id="Rectangle-14" transform="translate(54.708942, 15.580838) rotate(9.000000) translate(-54.708942, -15.580838) " x="50.2089422" y="5.5808385" width="9" height="20"></rect>
-  <rect id="Rectangle-14" transform="translate(40.834176, 15.755980) rotate(-13.000000) translate(-40.834176, -15.755980) " x="36.3341758" y="5.75598039" width="9" height="20"></rect>
-  <rect id="Rectangle-15" transform="translate(60.951894, 16.923944) rotate(15.000000) translate(-60.951894, -16.923944) " x="56.4518938" y="6.92394397" width="9" height="20"></rect>
-  <circle id="Oval-9" cx="48.5" cy="52.5" r="14.5"></circle>
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <circle id="Oval-9" cx="48.5" cy="52.5" r="14.5"/>
+  <polygon points="0.172001 57.384 1.387 64.885 4.342 73.44 8.078 80.856 13.22 88.255 19.001 93.764 33.093 79.667 28.576 75.073 26.081 71.598 23.736 67.377 21.695 62.769 20.62 59.275 19.752 54.098" style="fill: rgb(3, 0, 0);"/>
+  <polygon points="25.941 10.703 33.967 7.102 43.001 4.932 52.159 4.888 60.774 6.256 67.955 8.418 62.308 27.831 56.315 25.968 50.559 24.802 45.533 24.941 40.298 26.127 34.099 28.922" style="fill: rgb(3, 0, 0);"/>
+  <polygon points="98.396 59.14 96.829 67.416 93.685 75.482 89.136 83.128 83.559 89.529 76.605 95.068 63.987 79.443 69.375 75.047 73.335 70.442 75.796 66.331 77.561 61.711 78.715 55.311" style="fill: rgb(3, 0, 0);"/>
 </svg>
