@@ -1,0 +1,70 @@
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect id="Rectangle-30" transform="translate(90.550750, 36.036690) rotate(-16.000000) translate(-90.550750, -36.036690) " x="84.0507504" y="32.0366896" width="13" height="8"></rect>
+  <rect id="Rectangle-31" transform="translate(88.264992, 29.797970) rotate(-24.000000) translate(-88.264992, -29.797970) " x="81.764992" y="25.79797" width="13" height="8"></rect>
+  <rect id="Rectangle-29" transform="translate(91.993435, 42.865697) rotate(-8.000000) translate(-91.993435, -42.865697) " x="85.4934349" y="38.8656974" width="13" height="8"></rect>
+  <rect id="Rectangle-28" transform="translate(88.064992, 70.097970) rotate(24.000000) translate(-88.064992, -70.097970) " x="81.564992" y="66.09797" width="13" height="8"></rect>
+  <rect id="Rectangle-13" x="86" y="46" width="13" height="8"></rect>
+  <rect id="Rectangle-26" transform="translate(91.993435, 56.865697) rotate(8.000000) translate(-91.993435, -56.865697) " x="85.4934349" y="52.8656974" width="13" height="8"></rect>
+  <rect id="Rectangle-27" transform="translate(90.450750, 63.636690) rotate(16.000000) translate(-90.450750, -63.636690) " x="83.9507504" y="59.6366896" width="13" height="8"></rect>
+  <rect id="Rectangle-30" transform="translate(9.450750, 63.636690) rotate(-16.000000) translate(-9.450750, -63.636690) " x="2.95075045" y="59.6366896" width="13" height="8"></rect>
+  <rect id="Rectangle-31" transform="translate(11.864992, 70.297970) rotate(-24.000000) translate(-11.864992, -70.297970) " x="5.36499205" y="66.29797" width="13" height="8"></rect>
+  <rect id="Rectangle-29" transform="translate(7.993435, 56.865697) rotate(-8.000000) translate(-7.993435, -56.865697) " x="1.49343485" y="52.8656974" width="13" height="8"></rect>
+  <rect id="Rectangle-28" transform="translate(11.864992, 29.297970) rotate(24.000000) translate(-11.864992, -29.297970) " x="5.36499205" y="25.29797" width="13" height="8"></rect>
+  <rect id="Rectangle-13" x="1" y="45.9" width="13" height="8"></rect>
+  <rect id="Rectangle-26" transform="translate(7.993435, 42.865697) rotate(8.000000) translate(-7.993435, -42.865697) " x="1.49343485" y="38.8656974" width="13" height="8"></rect>
+  <rect id="Rectangle-27" transform="translate(9.450750, 35.936690) rotate(16.000000) translate(-9.450750, -35.936690) " x="2.95075045" y="31.9366896" width="13" height="8"></rect>
+  <rect id="Rectangle-12" x="46" y="86" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(56.865697, 91.993435) rotate(-8.000000) translate(-56.865697, -91.993435) " x="52.8656974" y="85.4934349" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(42.915697, 91.993435) rotate(8.000000) translate(-42.915697, -91.993435) " x="38.9156974" y="85.4934349" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(63.636690, 90.550750) rotate(-16.000000) translate(-63.636690, -90.550750) " x="59.6366896" y="84.0507504" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(36.636690, 90.650750) rotate(16.000000) translate(-36.636690, -90.650750) " x="32.6366896" y="84.1507504" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(69.497970, 88.414992) rotate(-24.000000) translate(-69.497970, -88.414992) " x="65.49797" y="81.914992" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(30.297970, 88.364992) rotate(24.000000) translate(-30.297970, -88.364992) " x="26.29797" y="81.864992" width="8" height="13"></rect>
+  <rect id="Rectangle-12" x="46" y="1" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(42.965697, 7.993435) rotate(-8.000000) translate(-42.965697, -7.993435) " x="38.9656974" y="1.49343485" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(56.657523, 7.882506) rotate(8.000000) translate(-56.657523, -7.882506) " x="52.6575226" y="1.38250617" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(36.636690, 9.350750) rotate(-16.000000) translate(-36.636690, -9.350750) " x="32.6366896" y="2.85075045" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(63.536690, 9.350750) rotate(16.000000) translate(-63.536690, -9.350750) " x="59.5366896" y="2.85075045" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(30.297970, 11.564992) rotate(-24.000000) translate(-30.297970, -11.564992) " x="26.29797" y="5.06499205" width="8" height="13"></rect>
+  <rect id="Rectangle-12" transform="translate(70.197970, 11.764992) rotate(24.000000) translate(-70.197970, -11.764992) " x="66.19797" y="5.26499205" width="8" height="13"></rect>
+  <rect id="Rectangle-41" transform="translate(24.387901, 36.484497) rotate(24.000000) translate(-24.387901, -36.484497) " x="19.8879011" y="32.4844967" width="9" height="8"></rect>
+  <rect id="Rectangle-40" transform="translate(24.387901, 63.634497) rotate(-24.000000) translate(-24.387901, -63.634497) " x="19.8879011" y="59.6344967" width="9" height="8"></rect>
+  <rect id="Rectangle-37" x="17" y="46" width="9" height="8"></rect>
+  <rect id="Rectangle-38" transform="translate(22.233311, 43.048193) rotate(12.000000) translate(-22.233311, -43.048193) " x="17.733311" y="39.048193" width="9" height="8"></rect>
+  <rect id="Rectangle-39" transform="translate(22.233311, 56.948193) rotate(-12.000000) translate(-22.233311, -56.948193) " x="17.733311" y="52.948193" width="9" height="8"></rect>
+  <rect id="Rectangle-41" transform="translate(75.637901, 63.484497) rotate(24.000000) translate(-75.637901, -63.484497) " x="71.1379011" y="59.4844967" width="9" height="8"></rect>
+  <rect id="Rectangle-40" transform="translate(75.637901, 36.484497) rotate(-24.000000) translate(-75.637901, -36.484497) " x="71.1379011" y="32.4844967" width="9" height="8"></rect>
+  <rect id="Rectangle-37" x="74" y="46" width="9" height="8"></rect>
+  <rect id="Rectangle-38" transform="translate(77.783311, 56.848193) rotate(12.000000) translate(-77.783311, -56.848193) " x="73.283311" y="52.848193" width="9" height="8"></rect>
+  <rect id="Rectangle-39" transform="translate(77.783311, 43.148193) rotate(-12.000000) translate(-77.783311, -43.148193) " x="73.283311" y="39.148193" width="9" height="8"></rect>
+  <rect id="Rectangle-36" transform="translate(36.584497, 75.637901) rotate(24.000000) translate(-36.584497, -75.637901) " x="32.5844967" y="71.1379011" width="8" height="9"></rect>
+  <rect id="Rectangle-35" transform="translate(63.484497, 75.637901) rotate(-24.000000) translate(-63.484497, -75.637901) " x="59.4844967" y="71.1379011" width="8" height="9"></rect>
+  <rect id="Rectangle-34" transform="translate(56.848193, 77.783311) rotate(-12.000000) translate(-56.848193, -77.783311) " x="52.848193" y="73.283311" width="8" height="9"></rect>
+  <rect id="Rectangle-32" x="46" y="74" width="8" height="9"></rect>
+  <rect id="Rectangle-33" transform="translate(43.248193, 77.783311) rotate(12.000000) translate(-43.248193, -77.783311) " x="39.248193" y="73.283311" width="8" height="9"></rect>
+  <rect id="Rectangle-36" transform="translate(63.484497, 25.437901) rotate(24.000000) translate(-63.484497, -25.437901) " x="59.4844967" y="20.9379011" width="8" height="9"></rect>
+  <rect id="Rectangle-35" transform="translate(36.484497, 25.337901) rotate(-24.000000) translate(-36.484497, -25.337901) " x="32.4844967" y="20.8379011" width="8" height="9"></rect>
+  <rect id="Rectangle-34" transform="translate(43.048193, 23.183311) rotate(-12.000000) translate(-43.048193, -23.183311) " x="39.048193" y="18.683311" width="8" height="9"></rect>
+  <rect id="Rectangle-32" x="46" y="18" width="8" height="9"></rect>
+  <rect id="Rectangle-33" transform="translate(56.848193, 23.233311) rotate(12.000000) translate(-56.848193, -23.233311) " x="52.848193" y="18.733311" width="8" height="9"></rect>
+  <rect id="Rectangle-51" transform="translate(66.181089, 40.915064) rotate(-30.000000) translate(-66.181089, -40.915064) " x="62.6810889" y="38.4150635" width="7" height="5"></rect>
+  <rect id="Rectangle-50" transform="translate(66.181089, 59.115064) rotate(30.000000) translate(-66.181089, -59.115064) " x="62.6810889" y="56.6150635" width="7" height="5"></rect>
+  <rect id="Rectangle-48" transform="translate(67.857198, 54.903644) rotate(15.000000) translate(-67.857198, -54.903644) " x="64.3571975" y="51.9036441" width="7" height="6"></rect>
+  <rect id="Rectangle-49" transform="translate(67.857198, 45.103644) rotate(-15.000000) translate(-67.857198, -45.103644) " x="64.3571975" y="42.1036441" width="7" height="6"></rect>
+  <rect id="Rectangle-47" x="65" y="47" width="7" height="6"></rect>
+  <rect id="Rectangle-51" transform="translate(33.781089, 59.015064) rotate(-30.000000) translate(-33.781089, -59.015064) " x="30.2810889" y="56.5150635" width="7" height="5"></rect>
+  <rect id="Rectangle-50" transform="translate(33.781089, 40.915064) rotate(30.000000) translate(-33.781089, -40.915064) " x="30.2810889" y="38.4150635" width="7" height="5"></rect>
+  <rect id="Rectangle-48" transform="translate(32.157198, 45.103644) rotate(15.000000) translate(-32.157198, -45.103644) " x="28.6571975" y="42.1036441" width="7" height="6"></rect>
+  <rect id="Rectangle-49" transform="translate(32.157198, 54.903644) rotate(-15.000000) translate(-32.157198, -54.903644) " x="28.6571975" y="51.9036441" width="7" height="6"></rect>
+  <rect id="Rectangle-47" x="28" y="47" width="7" height="6"></rect>
+  <rect id="Rectangle-46" transform="translate(59.048076, 66.231089) rotate(-30.000000) translate(-59.048076, -66.231089) " x="56.5480762" y="62.7310889" width="5" height="7"></rect>
+  <rect id="Rectangle-44" transform="translate(54.903644, 67.857198) rotate(-15.000000) translate(-54.903644, -67.857198) " x="51.9036441" y="64.3571975" width="6" height="7"></rect>
+  <rect id="Rectangle-42" x="47" y="65" width="6" height="7"></rect>
+  <rect id="Rectangle-43" transform="translate(45.003644, 67.857198) rotate(15.000000) translate(-45.003644, -67.857198) " x="42.0036441" y="64.3571975" width="6" height="7"></rect>
+  <rect id="Rectangle-45" transform="translate(40.915064, 66.231089) rotate(30.000000) translate(-40.915064, -66.231089) " x="38.4150635" y="62.7310889" width="5" height="7"></rect>
+  <rect id="Rectangle-46" transform="translate(40.915064, 33.781089) rotate(-30.000000) translate(-40.915064, -33.781089) " x="38.4150635" y="30.2810889" width="5" height="7"></rect>
+  <rect id="Rectangle-44" transform="translate(45.003644, 32.157198) rotate(-15.000000) translate(-45.003644, -32.157198) " x="42.0036441" y="28.6571975" width="6" height="7"></rect>
+  <rect id="Rectangle-42" x="47" y="28" width="6" height="7"></rect>
+  <rect id="Rectangle-43" transform="translate(54.803644, 32.157198) rotate(15.000000) translate(-54.803644, -32.157198) " x="51.8036441" y="28.6571975" width="6" height="7"></rect>
+  <rect id="Rectangle-45" transform="translate(58.848076, 33.781089) rotate(30.000000) translate(-58.848076, -33.781089) " x="56.3480762" y="30.2810889" width="5" height="7"></rect>
+</svg>

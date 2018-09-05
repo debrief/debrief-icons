@@ -1,0 +1,5 @@
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <polygon id="Triangle-4" points="50 3 66 65 34 65"></polygon>
+  <polygon id="Triangle-5" transform="translate(41.514554, 75.597986) rotate(5.000000) translate(-41.514554, -75.597986) " points="33.3512848 64.2014576 54.9484747 52.4647515 28.0806335 98.7312212"></polygon>
+  <polygon id="Triangle-5" transform="translate(58.498995, 75.616049) scale(-1, 1) rotate(5.000000) translate(-58.498995, -75.616049) " points="50.3357254 64.2195206 71.9329154 52.4828144 45.0650741 98.7492841"></polygon>
+</svg>

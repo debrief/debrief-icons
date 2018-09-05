@@ -1,0 +1,11 @@
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect id="Rectangle-6" transform="translate(46.492153, 32.492153) rotate(45.000000) translate(-46.492153, -32.492153) " x="45.4921535" y="12.9971535" width="2" height="38.99" rx="1"></rect>
+  <rect id="Rectangle-8" transform="translate(80.649941, 18.649941) rotate(45.000000) translate(-80.649941, -18.649941) " x="79.6499414" y="-6.72505865" width="2" height="50.75" rx="1"></rect>
+  <rect id="Rectangle-9" x="97" y="1" width="1.5" height="6.5" rx="0.75"></rect>
+  <rect id="Rectangle-7" x="62" y="12" width="2" height="25" rx="1"></rect>
+  <rect id="Rectangle-7" transform="translate(61.631815, 30.819385) rotate(-8.000000) translate(-61.631815, -30.819385) " x="60.6318148" y="19.024385" width="2" height="23.59" rx="1"></rect>
+  <rect id="Rectangle-8" transform="translate(80.384330, 23.384330) rotate(45.000000) translate(-80.384330, -23.384330) " x="79.3843299" y="-1.61503878" width="2" height="49.9987373" rx="1"></rect>
+  <rect id="Rectangle-6" transform="translate(46.954336, 28.954336) rotate(45.000000) translate(-46.954336, -28.954336) " x="45.9543364" y="4.56307037" width="2" height="48.782532" rx="1"></rect>
+  <circle id="Oval-2" stroke="#000000" stroke-width="2" fill-opacity="0" cx="27" cy="72" r="22"></circle>
+  <circle id="Oval" stroke="#000000" stroke-width="2" fill-opacity="0" cx="27" cy="72" r="26"></circle>
+</svg>
