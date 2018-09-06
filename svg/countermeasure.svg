@@ -12,4 +12,5 @@
   <polyline style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 7;" points="64.905 38.82 67.196 42.759 68.476 47.445 68.476 52.43 67.411 56.812 64.878 61.163" transform=""/>
   <polyline style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 7;" points="61.149 64.968 57.323 67.187 52.281 68.48 47.668 68.553 43.283 67.425 38.858 65.074" transform=""/>
   <polyline style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 7;" points="34.977 61.295 32.778 57.18 31.436 52.295 31.436 47.87 32.639 42.835 35.124 38.547" transform=""/>
+  <circle id="origin" cx="50" cy="50" r="2.5" style="fill: rgb(255, 0, 0);"/>
 </svg>
